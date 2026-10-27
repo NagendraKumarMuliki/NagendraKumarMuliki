@@ -10,12 +10,16 @@
 
 ## 👨‍💻 About Me
 
-I’m an **Electrical & Embedded Systems Engineer** with hands-on experience in embedded firmware, PCB design, robotics, automation, and AI-enabled hardware systems.
+I build embedded systems that perform where it matters most — in real-world environments where reliability, performance, power efficiency, and precision are critical.
 
+I’m an Embedded Software Engineer with experience developing production-ready firmware for automotive radar systems, edge AI microcontrollers, and low-power embedded applications. I specialize in bridging hardware and software to build reliable, efficient, and secure systems.
 Currently pursuing a **Master of Science in Electrical & Computer Engineering** at the **University of Alabama at Birmingham (UAB)**.
 
 I enjoy designing **reliable, scalable, and real-world engineering solutions** that bridge hardware, software, and intelligent automation.
 
+I’m passionate about embedded systems, automotive electronics, real-time firmware, edge AI, low-power design, IoT, and firmware security — especially projects that bring hardware and intelligent software together to solve real-world problems.
+
+I believe great engineering is about more than making systems work. It’s about making them work reliably, efficiently, and consistently in the real world.
 ---
 
 ## 🧠 Technical Skills
